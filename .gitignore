@@ -1,0 +1,6 @@
+# Ignore config files
+config.json
+test.json
+
+# Ignore txt files
+bot info.txt
